@@ -1,0 +1,4 @@
+00:14:24 - Error en C:\archivo_inexistente.txt : El archivo no existe.
+00:14:24 - Error en C:\Users\bitog\Desktop\archivo.txt : El archivo no existe.
+00:16:29 - Error en C:\archivo_inexistente.txt : El archivo no existe.
+00:16:29 - Archivo encontrado y accesible: C:\Users\bitog\Desktop\archivo.txt
