@@ -1,3 +1,5 @@
+# Editado por bitonub el 23 de Septiembre del 2025
+
 function Validar-Archivo {
     param ([string]$Ruta)
 
